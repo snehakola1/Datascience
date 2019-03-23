@@ -1,0 +1,3 @@
+This python notebook contains analysis and use of various models to work on an imbalance dataset. This dataset has 3722 examples out of which 3240 are positve.
+It has 219 real valued features and binary labels.The cost associated with False Positives is $7000 and False negatives is $500. The aim is to build model which minimizes this cost.
+The test set contains 400 examples.
